@@ -181,6 +181,8 @@ button {
 
 h2 {
   font-family: 'Fraunces', serif;
+  margin-bottom: 30px;
+  line-height: 1.2
   font-weight: 700;
   font-size: 50px;
   color: hsl(212, 27%, 19%)
